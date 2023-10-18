@@ -1,6 +1,11 @@
 # Real-ESRGAN
 PyTorch implementation of a Real-ESRGAN model trained on custom dataset. This model shows better results on faces compared to the original version. It is also easier to integrate this model into your projects.
 
+## Launch Notebook
+
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/Real-ESRGAN?machine=Free-GPU)
+
+
 > This is not an official implementation. We partially use code from the [original repository](https://github.com/xinntao/Real-ESRGAN)
 
 Real-ESRGAN is an upgraded [ESRGAN](https://arxiv.org/abs/1809.00219) trained with pure synthetic data is capable of enhancing details while removing annoying artifacts for common real-world images. 
